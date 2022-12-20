@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\Итоговая работа C#\bin\Debug\net6.0\Итоговая работа C#.exe
+C:\Users\Александр\Desktop\Итоговая работа C#\bin\Debug\net6.0\Итоговая работа C#.deps.json
+C:\Users\Александр\Desktop\Итоговая работа C#\bin\Debug\net6.0\Итоговая работа C#.runtimeconfig.json
+C:\Users\Александр\Desktop\Итоговая работа C#\bin\Debug\net6.0\Итоговая работа C#.dll
+C:\Users\Александр\Desktop\Итоговая работа C#\bin\Debug\net6.0\Итоговая работа C#.pdb
+C:\Users\Александр\Desktop\Итоговая работа C#\obj\Debug\net6.0\Итоговая работа C#.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Итоговая работа C#\obj\Debug\net6.0\Итоговая работа C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\Итоговая работа C#\obj\Debug\net6.0\Итоговая работа C#.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\Итоговая работа C#\obj\Debug\net6.0\Итоговая работа C#.AssemblyInfo.cs
+C:\Users\Александр\Desktop\Итоговая работа C#\obj\Debug\net6.0\Итоговая работа C#.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Итоговая работа C#\obj\Debug\net6.0\Итоговая работа C#.dll
+C:\Users\Александр\Desktop\Итоговая работа C#\obj\Debug\net6.0\refint\Итоговая работа C#.dll
+C:\Users\Александр\Desktop\Итоговая работа C#\obj\Debug\net6.0\Итоговая работа C#.pdb
+C:\Users\Александр\Desktop\Итоговая работа C#\obj\Debug\net6.0\Итоговая работа C#.genruntimeconfig.cache
+C:\Users\Александр\Desktop\Итоговая работа C#\obj\Debug\net6.0\ref\Итоговая работа C#.dll
